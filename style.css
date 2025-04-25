@@ -21,7 +21,7 @@ body {
 .marquee-content {
   display: inline-block;
   white-space: nowrap;
-  animation: marquee-scroll 29s linear infinite; /* Ajusta '30s' para velocidad */
+  animation: marquee-scroll 33s linear infinite; /* Ajusta '30s' para velocidad */
 }
 
 .marquee-text {
